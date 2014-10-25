@@ -115,12 +115,12 @@
 	}
 		#navigation a { float: left; }
 	
-	#suspicious{
+	#abandoned{
 	float: left;
 	margin-top: 5px;
 	margin-right: 10px;
 	margin-bottom: 0;
-	margin-left: 60px;
+	margin-left: 45%;
 	left: 0px;
 	position: absolute;
 	}
